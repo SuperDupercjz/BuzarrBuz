@@ -1,3 +1,9 @@
 .mainYellow{
     background-color: rgb(255, 255, 58);
 }
+.borderMainYellow{
+    border-width: medium;
+    border-radius:12px;
+    border-color: rgb(255, 255, 58);
+   
+}
